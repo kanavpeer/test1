@@ -1,4 +1,4 @@
-public class kanav{
+public class aws{
 
 public static void main(String[] args){
 
