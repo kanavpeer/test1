@@ -1,2 +1,2 @@
-FROM jenkinsproject:1.2
+FROM ubuntu:17.10
 COPY kanav.java /kanav.java
